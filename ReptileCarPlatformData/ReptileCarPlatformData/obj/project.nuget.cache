@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9XJbk9doVT9dv6ZhzGwNyXROoFFsqx5cvZXBCs3/e1kS+loKooD88MIDvqGAZJeLj8XWe+YouraTs2T38QGwOw==",
+  "success": true,
+  "projectFilePath": "E:\\PerTerProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

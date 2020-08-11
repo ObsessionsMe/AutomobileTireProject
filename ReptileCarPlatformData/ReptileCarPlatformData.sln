@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReptileCarPlatformData", "ReptileCarPlatformData\ReptileCarPlatformData.csproj", "{3504BAB6-DDD3-4473-8EED-2A6D74823BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3504BAB6-DDD3-4473-8EED-2A6D74823BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3504BAB6-DDD3-4473-8EED-2A6D74823BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3504BAB6-DDD3-4473-8EED-2A6D74823BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3504BAB6-DDD3-4473-8EED-2A6D74823BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {204A9EB2-5BCB-496A-9261-D24622504E82}
+	EndGlobalSection
+EndGlobal

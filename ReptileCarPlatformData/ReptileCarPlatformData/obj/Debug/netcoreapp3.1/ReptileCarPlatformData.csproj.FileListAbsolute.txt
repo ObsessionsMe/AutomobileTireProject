@@ -1,0 +1,11 @@
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\bin\Debug\netcoreapp3.1\ReptileCarPlatformData.exe
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\bin\Debug\netcoreapp3.1\ReptileCarPlatformData.deps.json
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\bin\Debug\netcoreapp3.1\ReptileCarPlatformData.runtimeconfig.json
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\bin\Debug\netcoreapp3.1\ReptileCarPlatformData.runtimeconfig.dev.json
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\bin\Debug\netcoreapp3.1\ReptileCarPlatformData.dll
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\bin\Debug\netcoreapp3.1\ReptileCarPlatformData.pdb
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\obj\Debug\netcoreapp3.1\ReptileCarPlatformData.AssemblyInfoInputs.cache
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\obj\Debug\netcoreapp3.1\ReptileCarPlatformData.AssemblyInfo.cs
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\obj\Debug\netcoreapp3.1\ReptileCarPlatformData.dll
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\obj\Debug\netcoreapp3.1\ReptileCarPlatformData.pdb
+E:\PerTerProject\ReptileCarPlatformData\ReptileCarPlatformData\obj\Debug\netcoreapp3.1\ReptileCarPlatformData.genruntimeconfig.cache
