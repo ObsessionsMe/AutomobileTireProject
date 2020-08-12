@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PersonProject\\CarInfoProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj": {}
+    "E:\\PerTerProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj": {}
   },
   "projects": {
-    "D:\\PersonProject\\CarInfoProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj": {
+    "E:\\PerTerProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PersonProject\\CarInfoProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj",
+        "projectUniqueName": "E:\\PerTerProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj",
         "projectName": "ReptileCarPlatformData",
-        "projectPath": "D:\\PersonProject\\CarInfoProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj",
-        "packagesPath": "C:\\Users\\86159\\.nuget\\packages\\",
-        "outputPath": "D:\\PersonProject\\CarInfoProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\obj\\",
+        "projectPath": "E:\\PerTerProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj",
+        "packagesPath": "C:\\Users\\XP\\.nuget\\packages\\",
+        "outputPath": "E:\\PerTerProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\86159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\XP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8FCnShckQrC/r//trsrchniaDM4hO2LyCZocuGIzGnyOuOR6IydXpVmD2+MyncklMKHA+PUlsKj43JS+JSFRBQ==",
+  "dgSpecHash": "W8RfDslFgEzArt4L96stOrwgHYpJRLNQMtZ4waWTathOAfRvRSYhx3CkiAViyE9UJBHMXL7yaHQj+vZXvIFxjw==",
   "success": true,
-  "projectFilePath": "D:\\PersonProject\\CarInfoProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj",
+  "projectFilePath": "E:\\PerTerProject\\AutomobileTireProject\\ReptileCarPlatformData\\ReptileCarPlatformData\\ReptileCarPlatformData.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\86159\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\XP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
